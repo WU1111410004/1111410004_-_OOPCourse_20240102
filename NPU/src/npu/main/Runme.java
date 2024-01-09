@@ -12,6 +12,7 @@ public class Runme {
 		Teacher Xteacher = new Teacher("Mark Chen");
 		DepCourse Economics = new DepCourse("Economics",3,Xteacher);
 		System.out.printf("Course is :%s", Economics.toString());
+		TieFighter(銀行帝國用);
 	}
 
 }
